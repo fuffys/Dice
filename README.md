@@ -1,1 +1,1 @@
-"# Dice" 
+Yes very good dice javascript.
