@@ -1,0 +1,43 @@
+body{
+    background-color: lightblue;
+    border: 15px solid black;
+    padding: 50px;
+    margin-left: 35%;
+    margin-right: 35%;
+    width: auto; 
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.container{
+    text-align: center;
+    background-color: grey;
+    border: 5px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px; 
+    color: white;
+
+}
+
+img{
+    margin-bottom: 5%;
+    margin-top: 5%;
+    height: 104 px;
+    width: 104px;
+}
+
+.button{
+    margin-bottom: 5%;
+    color: black;
+}
+
+footer{
+    color: black;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: -5%;
+    font-weight: bold;
+}
